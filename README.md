@@ -1,3 +1,4 @@
+# 个人学习使用
 # ChatGLM2-6B
 
 <p align="center">
